@@ -41,6 +41,7 @@ Estoy profundizando en el proyecto de **NLP**, realizando un análisis más avan
 ```
 
 
+
 <h1 align="center">Hola 👋, soy Luida Medina</h1>
 
 🎓 Profesional de Ingeniería Industrial en transición hacia **Data Science** y **Business Intelligence**, con experiencia en análisis de procesos, reclutamiento IT y desarrollo de proyectos con enfoque en datos.
@@ -55,9 +56,11 @@ Estoy profundizando en el proyecto de **NLP**, realizando un análisis más avan
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -75,13 +78,19 @@ App con Streamlit que compara CVs con requisitos de un rol usando NLP.
 Clasificación de sentimientos en tweets. Preprocesamiento de texto, tokenización y modelado.  
 📌 Herramientas: NLTK · Scikit-learn · Pandas
 
-*(Más proyectos serán agregados pronto… 🚀)*
+#### 🧮 Dashboard de reclutamiento en Looker Studio
+Visualización de métricas de contratación y rendimiento de publicaciones.  
+📌 Herramientas: Google Sheets · Looker Studio
+
+#### 🔎 SQL Reporting con bases de datos públicas
+Consultas SQL aplicadas a bases de datos reales para generación de insights.  
+📌 Herramientas: MySQL · Google BigQuery · Excel
 
 ---
 
 ### 🎯 Objetivo profesional
 
-Busco oportunidades en roles de **Data Analyst**, **BI**, o **Data Science Jr.** donde pueda seguir creciendo, participar en proyectos reales y aportar soluciones basadas en datos.
+Busco oportunidades en roles de **Data Analyst**, **BI Analyst**, o **Data Science Jr.** donde pueda seguir creciendo, participar en proyectos reales y aportar soluciones basadas en datos.
 
 ---
 
@@ -93,5 +102,6 @@ Busco oportunidades en roles de **Data Analyst**, **BI**, o **Data Science Jr.**
 ---
 
 ✨ ¡Gracias por visitar mi perfil!
+
 
 
