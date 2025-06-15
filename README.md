@@ -42,8 +42,8 @@ Consultas SQL aplicadas a bases de datos reales para generación de insights.
 📌 Herramientas: MySQL · Google BigQuery · Excel
 
 
-### 🧠 Proyecto 1 – NLP
-- *Título*: Análisis de sentimientos en texto (tweets)
+### 🧠 Proyecto – NLP
+- **Título**: Análisis de sentimientos en texto (tweets)
 - **Herramientas**: Pandas, NLTK, Scikit-learn
 - **Descripción**: Preprocesamiento de texto (tokenización, lematización, limpieza) y clasificación de polaridad con modelos clásicos de Machine Learning.
 
@@ -52,7 +52,7 @@ Consultas SQL aplicadas a bases de datos reales para generación de insights.
 - Tokenización y lematización
 - Análisis de polaridad / sentimiento
 
-### 🤖 Proyecto 2 – Deep Learning
+### 🤖 Proyecto – Deep Learning
 - **Título**: Clasificación con red neuronal simple
 - **Herramientas**: Keras, TensorFlow, NumPy
 - **Descripción**: Red neuronal multicapa construida desde cero para clasificar un conjunto de datos básico.
