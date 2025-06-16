@@ -2,7 +2,7 @@
 
 🎓 Profesional de Ingeniería Industrial en transición hacia **Data Science** y **Business Intelligence**, con experiencia en análisis de procesos, reclutamiento IT y desarrollo de proyectos con enfoque en datos.
 
-##🎯 Objetivo profesional
+### 🎯 Objetivo profesional
 
 Busco oportunidades en roles de **Data Analyst**, **BI Analyst**, o **Data Science Jr.** donde pueda seguir creciendo, participar en proyectos reales y aportar soluciones basadas en datos.
 
