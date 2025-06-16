@@ -6,7 +6,7 @@
 
 Busco oportunidades en roles de **Data Analyst**, **BI Analyst**, o **Data Science Jr.** donde pueda seguir creciendo, participar en proyectos reales y aportar soluciones basadas en datos.
 
-Me apasionada por convertir datos en insights accionables. Me interesa trabajar en equipos donde pueda aplicar mis conocimientos en proyectos reales, aportar soluciones y generar mejoras continuas a través de la creatividad y la automatización.
+Me apasiona por convertir datos en insights accionables. Me interesa trabajar en equipos donde pueda aplicar mis conocimientos en proyectos reales, aportar soluciones y generar mejoras continuas a través de la creatividad y la automatización.
 
 ---
 
