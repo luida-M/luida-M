@@ -75,6 +75,7 @@ Consultas SQL aplicadas a bases de datos reales para generación de insights.
 - 📂 [Repositorio de proyectos](https://github.com/luida-M?tab=repositories)
 
 ---
+📈 En búsqueda activa de oportunidades para crecer en el mundo de los datos.
 
 ✨ ¡Gracias por visitar mi perfil!
 
