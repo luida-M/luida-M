@@ -81,7 +81,7 @@ Consultas SQL aplicadas a bases de datos reales para generación de insights.
 
 ### 📫 Contacto
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/luida-medina/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/%F0%9F%93%8Aluida-medina-609b40376/)  
 - 📂 [Repositorio de proyectos](https://github.com/luida-M?tab=repositories)
 
 ---
