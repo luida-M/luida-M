@@ -8,7 +8,7 @@ Busco oportunidades en roles de Data Analyst, BI Analyst o Data Science Jr., don
 
 Me apasiona transformar los datos en insights accionables y trabajar en equipos donde pueda aplicar mis conocimientos, generar mejoras continuas y promover la automatización.
 
-📊 Te invito a conocer algunos de mis proyectos en GitHub: https://github.com/luida-M?tab=repositories
+📊 Te invito a conocer algunos de mis proyectos en GitHub: [https://github.com/luida-M?tab=repositories]
 
 ---
 
