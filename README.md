@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Luida Medina</h1>
 
-🎓 Profesional de Ingeniería Industrial en transición hacia **Data Science** y **Business Intelligence**, con experiencia en análisis de procesos, reclutamiento IT y desarrollo de proyectos con enfoque en datos.
+🎓 Profesional de Ingeniería Industrial especializada en **Data Science** y **Business Intelligence**, con experiencia en análisis de procesos, reclutamiento IT y desarrollo de proyectos con enfoque en datos.
 
  ## 🎯 Objetivo profesional
 
